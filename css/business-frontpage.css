@@ -1,0 +1,59 @@
+/*!
+ * Start Bootstrap - Busines Frontpage (https://startbootstrap.com/template-overviews/business-frontpage)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+.topbox{
+	background-color: rgba(200, 3, 96, 1);
+}
+
+.topImage{
+	margin:0px;
+	width:150px;
+	height:150px;
+	position:absolute;
+	top:30%;
+	right:25%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.headerText{
+	font-size:5em;
+	color:black !important;
+}
+
+.sloganText{
+	font-size:2em;
+}
+
+.bottomText{
+	font-size:0.7em;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: rgba(200, 3, 96, 1) !important;
+	border: 0px !important;
+}
+
+#servicesTag{
+	color: rgba(200, 3, 96, 1);
+	margin-bottom: 5%;
+}
+
+h3{
+	color: rgba(200, 3, 96, 1);
+	margin-bottom: 2%;
+}
+
+i{
+	margin-left:5%;
+}
+
+.card-title{
+	color: rgba(200, 3, 96, 1)
+}
